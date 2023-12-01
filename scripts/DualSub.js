@@ -103,7 +103,7 @@ let default_settings = {
         type: "Official", // Google, DeepL, External, Disable
         lang: "English (CC)",
         sl: "auto",
-        tl: "English (CC)",
+        tl: "English",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
