@@ -4,6 +4,7 @@
 // @include     https://www.netflix.com/*
 // @description 纠正 NflxMultiSubs 字幕重叠的问题
 // @author      Sean
+// ==/UserScript==
 
 (function () {
     document.querySelectorAll('.nflxmultisubs-subtitle-wrapper').forEach(function(e) {
