@@ -1,0 +1,5 @@
+#!name=⚙️ HomeMode
+#!desc=HomeWiFi Suspending
+
+[SSID Setting]
+SSID:HomeWiFi suspend=true
